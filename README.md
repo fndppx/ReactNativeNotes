@@ -1,6 +1,6 @@
 # ReactNativeNotes
 
-##ReactNative生命周期
+>##ReactNative生命周期
 
 constructor(props)
 
@@ -19,7 +19,7 @@ componentWIllUnmount()
 render()
 
 
-#导入与导出
+>#导入与导出
 
 1.如何导出一个组件，如何使用导出的组件？
 
@@ -30,7 +30,7 @@ render()
 onPress={()=>{}}>
 
 
-#React Native props
+>#React Native props
 
 1.什么是props？
 
@@ -46,7 +46,7 @@ static propTypes
 
 6.props使用小技巧之解构赋值?
 
-#State
+>#State
 
 1.什么是state
 2.如何使用state
