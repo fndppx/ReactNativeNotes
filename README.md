@@ -1,5 +1,13 @@
 # ReactNativeNotes
 
+##Command
+
+react-native init AwesomeProject
+
+cd AwesomeProject
+
+react-native run-ios
+
 ##ReactNative生命周期
 
 constructor(props)
