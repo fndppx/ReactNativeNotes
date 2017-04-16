@@ -44,3 +44,6 @@ static propTypes
 ...params
 
 6.props使用小技巧之解构赋值?
+#State
+1.什么是state
+2.如何使用state
