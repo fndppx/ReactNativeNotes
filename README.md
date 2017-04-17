@@ -90,6 +90,168 @@ static propTypes
 * Native Modules
 * Native UI Components
 
+>#CSS
+
+  ```
+  Valid style props: [
+  "alignItems",
+
+  "alignSelf",
+
+  "backfaceVisibility",
+
+  "backgroundColor",
+
+  "borderBottomColor",
+
+  "borderBottomLeftRadius",
+
+  "borderBottomRightRadius",
+
+  "borderBottomWidth",
+
+  "borderColor",
+
+  "borderLeftColor",
+
+  "borderLeftWidth",
+
+  "borderRadius",
+
+  "borderRightColor",
+
+  "borderRightWidth",
+
+  "borderStyle",
+
+  "borderTopColor",
+
+  "borderTopLeftRadius",
+
+  "borderTopRightRadius",
+
+  "borderTopWidth",
+
+  "borderWidth",
+
+  "bottom",
+
+  "color",
+
+  "elevation",
+
+  "flex",
+
+  "flexDirection",
+
+  "flexWrap",
+
+  "fontFamily",
+
+  "fontSize",
+
+  "fontStyle",
+
+  "fontWeight",
+
+  "height",
+
+  "justifyContent",
+
+  "left",
+
+  "letterSpacing",
+
+  "lineHeight",
+
+  "margin",
+
+  "marginBottom",
+
+  "marginHorizontal",
+
+  "marginLeft",
+
+  "marginRight",
+
+  "marginTop",
+
+  "marginVertical",
+
+  "opacity",
+
+  "overflow",
+
+  "overlayColor",
+
+  "padding",
+
+  "paddingBottom",
+
+  "paddingHorizontal",
+
+  "paddingLeft",
+
+  "paddingRight",
+
+  "paddingTop",
+
+  "paddingVertical",
+
+  "position",
+
+  "resizeMode",
+
+  "right",
+
+  "rotation",
+
+  "scaleX",
+
+  "scaleY",
+
+  "shadowColor",
+
+  "shadowOffset",
+
+  "shadowOpacity",
+
+  "shadowRadius",
+
+  "textAlign",
+
+  "textAlignVertical",
+
+  "textDecorationColor",
+
+  "textDecorationLine",
+
+  "textDecorationStyle",
+
+  "textShadowColor",
+
+  "textShadowOffset",
+
+  "textShadowRadius",
+
+  "tintColor",
+
+  "top",
+
+  "transform",
+
+  "transformMatrix",
+
+  "translateX",
+
+  "translateY",
+
+  "width",
+
+  "writingDirection"]
+  ```
+
+
 #相关博客
 
 >[贾鹏辉博客](http://www.devio.org)
